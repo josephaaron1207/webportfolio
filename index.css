@@ -81,16 +81,9 @@
         }
         .card-body {
             padding: 30px;
+            height: 300px;
         }
-        .skill-badge {
-            background-color: #e9ecef;
-            color: #495057;
-            padding: 8px 15px;
-            border-radius: 20px;
-            margin: 5px;
-            display: inline-block;
-            font-weight: 600;
-        }
+
         .portfolio-item img {
             border-radius: 15px;
             transition: transform 0.3s ease;
